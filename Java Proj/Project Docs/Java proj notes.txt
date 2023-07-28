@@ -1,0 +1,12 @@
+Google guava library for collections (multimaps(type of DS) and other data structures)
+Google guice for dependency injection.
+Generate HTML Reports using FreeMarker
+
+~Read a CSV file
+    ~
+~Parse data into a Java class/object that has property InputDataRow
+ which is a list of objects each object representing a row in the CSV file 
+~ objects in the InputDataRow list should contain the appropriate headings
+(This can be done using Javassist)
+
+~
